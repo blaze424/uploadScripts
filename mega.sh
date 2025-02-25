@@ -4,8 +4,8 @@
 REMOTE="mymega"
 
 # Define directories for ZIP files and recovery images
-ZIP_DIR="out/target/product"
-RECOVERY_DIR="out/target/product"
+ZIP_DIR="uploads/"
+RECOVERY_DIR="uploads/"
 
 # Upload ZIP files
 echo "Uploading ZIP files from $ZIP_DIR..."
